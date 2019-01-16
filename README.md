@@ -1,4 +1,4 @@
-# gioco_akinator
+# Akinator using C++
 
 ## Documentation
 Here is a small [Documentation](https://docs.google.com/document/d/1i98u-xDXWe1f0iEyTi-vluscR6ZYmca8hwzPeZSeSl0/edit?usp=sharing)
